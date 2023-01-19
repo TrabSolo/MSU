@@ -134,7 +134,12 @@ hr {
 	font-size: 12pt;
 }
 
-
+#txtBearPassNum {
+	color: purple;
+      	font-size: 20px;
+      	font-weight: bold;		
+}
+	
 input#586dfd00-af0e-48e8-ba44-7c7471871ae8 {
 	margin-top: 50px;
 }
